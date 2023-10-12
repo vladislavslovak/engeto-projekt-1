@@ -1,0 +1,438 @@
+.navigace {
+    background-color: #33292a;
+}
+
+li {
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: #fff;
+    list-style-type: none;
+}
+
+.hamburger-container {
+    background-color: #33292a;
+}
+
+.hamburger1 {
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.hamburger2 {
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.hamburger3 {
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.box2 {
+    background-color: #fff;
+}
+
+.box3 {
+    background-color: #33292a;
+}
+
+.box4 {
+    background-color: #fff;
+}
+
+.box5 {
+    background-color: #644B4F;
+}
+
+.box6 {
+    background-color: #fff;
+}
+
+.box7 {
+    background-color: blue;
+}
+
+.your-travel-assistant {
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 6vw;
+    text-align: right;
+    color: #FFFFFF;
+}
+
+.container-about-us-text {
+    background-color: #fff;
+}
+
+.container-anneliese {
+    background-color: #fff;
+}
+
+.anneliese {
+    background-color: #fff;
+}
+
+.yosemite {
+    border-radius: 4px;
+}
+
+.header-leigh {
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 2vw;
+    color: #000;
+    margin-top: 0;
+    margin-bottom: 5%;
+}
+
+.text-leigh {
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 1.28vw;
+    color: #000;
+    margin: 0;
+}
+
+.header-what-we-do {
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 2vw;
+    color: #fff;
+    text-align: center;
+}
+
+.text-what-we-do {
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 1.28vw;
+    color: #fff;
+    text-align: center;
+}
+
+.trip-5 {
+    background-color: #f2f2f2;
+    border-radius: 4px;
+}
+
+.header-our-trips {
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 2vw;
+    color: #000;    
+}
+
+.header-activities {
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 2vw;
+    color: #fff;
+    text-align: center;    
+}
+
+.header-contact-form {
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 2vw;
+    color: #fff;
+    margin: 0;
+}
+
+.container-contact-button-text {
+    margin: 0;
+}
+
+.text-contact-form {
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 1.28vw;
+    color: #fff;
+    margin: 0;
+}
+
+.contact-button {
+    background-color: #f2f2f2;
+    border: none;
+    border-radius: 4px;
+    font-weight: 700;
+}
+
+.header-reviews {
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 2vw;
+    color: #000;
+    text-align: center;
+    margin: 0;
+}
+
+.text-reviews {
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 1.28vw;
+    color: #000;
+    text-align: center;
+    margin: 0;
+}
+
+.text-bertie {
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 1.28vw;
+    color: #000;
+    text-align: center;
+    margin: 0;
+}
+
+.text-frank {
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 1.28vw;
+    color: #000;
+    text-align: center;
+    margin: 0;
+}
+
+.name-bertie {
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 1.28vw;
+    color: #000;
+    text-align: center;
+    margin: 0;
+}
+
+.name-frank {
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 1.28vw;
+    color: #000;
+    text-align: center;
+    margin: 0;
+}
+
+.footer {
+    background-color: #33292a;
+}
+
+.contact {
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 0.9vw;
+    margin: 0;
+    color: #efa69d;
+}
+
+.contact:hover {
+    color: #e9877b;
+}
+
+.copyright {
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 0.8vw;
+    color: #fff;
+    margin: 0;
+}
+
+/* Responzivní layout pro tablety */
+
+@media (max-width: 850px) {
+
+    .your-travel-assistant {
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        font-size: 11vw;
+        text-align: right;
+        color: #FFFFFF;
+    }
+
+    .header-leigh {
+        font-size: 6vw;
+        margin: 0;
+    }
+    
+    .text-leigh {
+        font-size: 2.25vw;
+    }
+
+    .header-what-we-do {
+        font-size: 6vw;
+    }
+    
+    .text-what-we-do {
+        font-size: 2.1vw;
+    }
+
+    .header-activities {
+        font-size: 3.5vw;  
+    }
+
+    .header-our-trips {
+        font-size: 6vw;
+        text-align: center;
+    }
+
+    .header-contact-form {
+        font-size: 6vw;
+    }
+
+    .text-contact-form {
+        font-size: 2.1vw;
+    }
+
+    .header-reviews {
+        font-size: 6vw;
+    }
+
+    .text-reviews {
+        font-size: 2.1vw;
+    }
+
+    .text-bertie {
+        font-size: 2.1vw;
+    }
+
+    .text-frank {
+        font-size: 2.1vw;
+    }
+
+    .name-bertie {
+        font-size: 2.3vw;
+    }
+    
+    .name-frank {
+        font-size: 2.3vw;
+    }
+
+    .contact {
+        font-size: 1.5vw;
+    }
+    
+    .copyright {
+        font-size: 1.4vw;
+    }
+}
+
+/* Responzivní layout pro mobily */
+
+@media (max-width: 768px) {
+    .header-leigh {
+        font-size: 8vw;
+        margin: 0;
+    }
+    
+    .text-leigh {
+        font-size: 3.8vw;
+    }
+
+    .header-what-we-do {
+        font-size: 8vw;
+    }
+
+    .text-what-we-do {
+        font-size: 3.8vw;
+        margin: 0;
+    }
+
+    .header-activities {
+        font-size: 5.5vw;
+        margin: 0;
+    }
+
+    .header-our-trips {
+        font-size: 8vw;
+    }
+
+    .header-contact-form {
+        font-size: 8vw;
+    }
+
+    .text-contact-form {
+        font-size: 3.8vw;
+    }
+
+    .header-reviews {
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        font-size: 8vw;
+        color: #000;
+        text-align: center;
+    }
+
+    .text-reviews {
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        font-size: 3.8vw;
+        color: #000;
+        text-align: center;
+    }
+
+    .text-bertie {
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        font-size: 3.8vw;
+        color: #000;
+        text-align: center;
+        margin: 0;
+    }
+
+    .text-frank {
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        font-size: 3.8vw;
+        color: #000;
+        text-align: center;
+        margin: 0;
+    }
+
+    .name-bertie {
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        font-size: 3.8vw;
+        color: #000;
+        text-align: center;
+        margin: 0;
+    }
+
+    .name-frank {
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        font-size: 3.8vw;
+        color: #000;
+        text-align: center;
+        margin: 0;
+    }
+
+    .contact {
+        font-size: 2.5vw;
+    }
+    
+    .copyright {
+        font-size: 2.4vw;
+    }
+}
